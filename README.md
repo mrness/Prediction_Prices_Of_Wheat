@@ -11,5 +11,8 @@ Resources
 2. 10 CSVs were provided to team to work with a clean data
 3. 2 Jupyter notebook codes were provided explaining how data got updated
 
-
+working on Wheat_prices Trend:
+a Wheat_Trent.ipynb provided to team to review it:
+1.ploting and commenting  on wheat prices trend throughout 10 years period
+2.ploting the whole dataSet we have and understanding the Correlation between each elements
 
