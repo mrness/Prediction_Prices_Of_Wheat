@@ -34,8 +34,23 @@ the wheat out of Ukraine which is the fifth largest wheat exporter.
 ![image](https://user-images.githubusercontent.com/69637182/184124010-e4169f90-8e1a-4a6a-84b0-5179ca08e3f0.png)
 The secode diagram shows Urea(Fertilizer) is highly correlated with wheat price if Urea goes up the wheat goes up automatically 
 ![image](https://user-images.githubusercontent.com/69637182/184124980-03c76ff3-0522-4dd7-9366-817f430ad272.png)
-Thirdly the wheat trends bellow shows significantly high trend in 2013/2013 because it was the best year 
+Thirdly the wheat trends bellow shows significantly high trend in 2012/2013 because it was the best year of harvesting no drought no flood throughout season
+after that in 2016/107 trend was pretty steep downwards for many reasons: Weaken of US dollars in this period, the trade war between US And China and at the end 
+of 2022 the wheat trends jumped back up as it was in 2013 because the pendamic played major role of changing global wheat market directions.
 ![image](https://user-images.githubusercontent.com/69637182/184125457-082906de-da2f-46fe-a636-fdfc10db11f5.png)
+The fourth plot is 21 window mean prices for 10 years period 
+![image](https://user-images.githubusercontent.com/69637182/184161233-3d1e2d03-6840-4cf6-abf8-ef69bdb13925.png)
+The fifth plot 21 window std and we can high volatilitity throught 10 years persiod 
+![image](https://user-images.githubusercontent.com/69637182/184161575-ea5ab4a4-6196-411f-83ba-0223c1ab4798.png)
+Lastly I overlayed 2 plots one with noise and the other without noise: the smoothest rolling mean
+![image](https://user-images.githubusercontent.com/69637182/184162120-33aa630b-0c1e-409f-8711-fa6ffecd85ea.png)
+return on Wheat_prices : 
+![image](https://user-images.githubusercontent.com/69637182/184163841-3cce09bd-8e8a-4984-9705-a89978016e65.png)
+Monte Carlor Simulation: 10 simulation of wheat prices  "Red thick line"
+![image](https://user-images.githubusercontent.com/69637182/184163896-9a6dd9cf-45c5-4c5f-88d9-5d0dc5629245.png)
+
+
+
 
 
 
