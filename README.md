@@ -50,11 +50,6 @@ The fifth plot 21 window std and we can high volatilitity throught 10 years pers
 Lastly I overlayed 2 plots one with noise and the other without noise: the smoothest rolling mean
 ![image](https://user-images.githubusercontent.com/69637182/184162120-33aa630b-0c1e-409f-8711-fa6ffecd85ea.png)
 
-return on Wheat_prices : 
-![image](https://user-images.githubusercontent.com/69637182/184163841-3cce09bd-8e8a-4984-9705-a89978016e65.png)
-
-Monte Carlor Simulation: 10 simulation of wheat prices  "Red thick line"
-![image](https://user-images.githubusercontent.com/69637182/184163896-9a6dd9cf-45c5-4c5f-88d9-5d0dc5629245.png)
 
 
 
