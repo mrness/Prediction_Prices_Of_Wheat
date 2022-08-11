@@ -28,6 +28,7 @@ We divided our project in to the following code modules
 - Map visualizations of largest importers and exporters of wheat (Please note this code does not show the map visualization in a jupyter notebook, but the visualizations appear in colab)
 ## Graphs
 Note : All graphs are in folder: Graphs
+
 The diagram bellow shows the trend between all commodites and indexs we had in our analysis
 we can see in plot 2014 period to mid 2015 the oil prices went down then automatically wheat prices went down in same period due to many factors:
 1.Russia annexed crimea caused a disruption of Global wheal supply in 2014 to control the black Sea which is the port to export 
