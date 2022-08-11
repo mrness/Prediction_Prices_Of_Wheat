@@ -27,6 +27,7 @@ We divided our project in to the following code modules
 - Correlation between wheat, copper, the dollar index, and drought
 - Map visualizations of largest importers and exporters of wheat (Please note this code does not show the map visualization in a jupyter notebook, but the visualizations appear in colab)
 ## Graphs
+Note : All graphs are in folder: Graphs
 The diagram bellow shows the trend between all commodites and indexs we had in our analysis
 we can see in plot 2014 period to mid 2015 the oil prices went down then automatically wheat prices went down in same period due to many factors:
 1.Russia annexed crimea caused a disruption of Global wheal supply in 2014 to control the black Sea which is the port to export 
@@ -38,7 +39,7 @@ The secode diagram shows Urea(Fertilizer) is highly correlated with wheat price 
 
 Thirdly the wheat trends bellow shows significantly high trend in 2012/2013 because it was the best year of harvesting no drought no flood throughout season
 after that in 2016/107 trend was pretty steep downwards for many reasons: Weaken of US dollars in this period, the trade war between US And China and at the end 
-of 2022 the wheat trends jumped back up as it was in 2013 because the pendamic played major role of changing global wheat market directions.
+of 2022 the wheat trends jumped back up as it was in 2013 because the pandemic played major role of changing global wheat market directions.
 ![image](https://user-images.githubusercontent.com/69637182/184125457-082906de-da2f-46fe-a636-fdfc10db11f5.png)
 
 The fourth plot is 21 window mean prices for 10 years period 
@@ -50,7 +51,8 @@ The fifth plot 21 window std and we can high volatilitity throught 10 years pers
 Lastly I overlayed 2 plots one with noise and the other without noise: the smoothest rolling mean
 ![image](https://user-images.githubusercontent.com/69637182/184162120-33aa630b-0c1e-409f-8711-fa6ffecd85ea.png)
 
-
+# Conclusion 
+The wheat market is projecting a CAGR of 4.5% of period 2022/2027 under a new restrictions because of pandemic when supply chain got distruped the wheat supply got redduced
 
 
 
