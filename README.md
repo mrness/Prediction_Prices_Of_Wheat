@@ -4,7 +4,7 @@ In this project we posed as consultants to Kraft-Heinz Corportaion. We noticed t
 ## Libraries
 In order to run our code these are libraries that need to be installed. 
 - investpy
--html5lib
+- html5lib
 - pandas
 - numpy 
 - yfinance
@@ -26,6 +26,7 @@ We divided our project in to the following code modules
 - Correlation between wheat, carbon, and crude futures
 - Correlation between wheat, copper, the dollar index, and drought
 - Map visualizations of largest importers and exporters of wheat (Please note this code does not show the map visualization in a jupyter notebook, but the visualizations appear in colab)
+
 ## Graphs
 Note : All graphs are in folder: Graphs
 
@@ -53,7 +54,7 @@ Lastly I overlayed 2 plots one with noise and the other without noise: the smoot
 ![image](https://user-images.githubusercontent.com/69637182/184162120-33aa630b-0c1e-409f-8711-fa6ffecd85ea.png)
 
 # Conclusion 
-The wheat market is projecting a CAGR of 4.5% of period 2022/2027 under a new restrictions because of pandemic when supply chain got distruped the wheat supply got redduced
+The wheat market is projecting a CAGR of 4.5% of period 2022/2027 under a new restrictions because of pandemic when supply chain got distruped the wheat supply got reduced.
 
 
 
